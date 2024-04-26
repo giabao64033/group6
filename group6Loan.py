@@ -221,9 +221,6 @@ loan_transformed.head()
 loan_df.describe()
 
 # %%
-!pip3 install -U imbalanced-learn
-
-# %%
 df = pd.read_csv(r"C:\Users\giabao64033\Downloads\dataset - loan application 3.csv")
 
 
